@@ -1,0 +1,10 @@
+Zeus
+====
+2014-07-07 - AKHE Rev D ready for manufacturing.
+2014-06-09 - AKHE Pin 21/22 of extension connector now vin+ 
+2014-06-09 - AKHE Rev D Started
+2014-04-28 	AKHE Added CAN4VSCP-connector
+2014-04-28	AKHE Rev C started
+2012-01-25  AKHE C23/R19 markings are at opposite positions.
+2012-01-19  AKHE Changed footprint for IC2 from SOP8 to SOP8W. 
+2012-01-19  AKHE Rev B

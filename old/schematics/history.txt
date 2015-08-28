@@ -1,0 +1,5 @@
+Snö
+===
+2012-01-25  AKHE C23/R19 markings are at opposite positions.
+2012-01-19  AKHE Changed footprint for IC2 from SOP8 to SOP8W. 
+2012-01-19  AKHE Rev B

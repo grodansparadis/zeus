@@ -1,0 +1,61 @@
+Partlist exported from C:/Users/akhe/Documents/development/hardware_zeus/Ethernet/ethernet module/snö/schematics/snow_rev_A.sch at 2011-09-30 11:38:49
+
+Part Value               Device           Package          Description                          Description              Supplier Partnumber           Price
+C1   12pF                C-EUC0805        C0805            CAPACITOR, European symbol           12pF Cheramic capacitor  Bejoken  522417               0,11 
+C2   12pF                C-EUC0805        C0805            CAPACITOR, European symbol           12pF Cheramic capacitor  Bejoken  522417               0,11 
+C3   100n                C-EUC0805        C0805            CAPACITOR, European symbol           100nF Cheramic capacitor Bejoken  522526               0,07 
+C4   220nF               C-EUC0805        C0805            CAPACITOR, European symbol           Capacitor                Digikey  587-1306-2-ND        0,14 
+C5   100n                C-EUC0805        C0805            CAPACITOR, European symbol           100nF Cheramic capacitor Bejoken  522526               0,07 
+C6   100n                C-EUC0805        C0805            CAPACITOR, European symbol           100nF Cheramic capacitor Bejoken  522526               0,07 
+C7   100n                C-EUC0805        C0805            CAPACITOR, European symbol           100nF Cheramic capacitor Bejoken  522526               0,07 
+C8   100n                C-EUC0805        C0805            CAPACITOR, European symbol           100nF Cheramic capacitor Bejoken  522526               0,07 
+C9   100n                C-EUC0805        C0805            CAPACITOR, European symbol           100nF Cheramic capacitor Bejoken  522526               0,07 
+C10  100n                C-EUC0805        C0805            CAPACITOR, European symbol           100nF Cheramic capacitor Bejoken  522526               0,07 
+C11  10uF/6.3V           CPOL-EUSMCP      SMC_P            POLARIZED CAPACITOR, European symbol Capacitor                Digikey  493-2328-1-nd        3,6  
+C12  100n                C-EUC0805        C0805            CAPACITOR, European symbol           100nF Cheramic capacitor Bejoken  522526               0,07 
+C13  22pF                C-EUC0805        C0805            CAPACITOR, European symbol           22pF Cheramic capacitor  Bejoken  522423               0,11 
+C14  22pF                C-EUC0805        C0805            CAPACITOR, European symbol           22pF Cheramic capacitor  Bejoken  522423               0,11 
+C15  100n                C-EUC0805        C0805            CAPACITOR, European symbol           100nF Cheramic capacitor Bejoken  522526               0,07 
+C16  4.7nF               C-EUC0805        C0805            CAPACITOR, European symbol           4.7nF Cheramic capacitor Bejoken  522508               0,05 
+C17  4.7nF               C-EUC0805        C0805            CAPACITOR, European symbol           4.7nF Cheramic capacitor Bejoken  522508               0,05 
+C18  2.2UF 50V           C-EUC2012        C2012            CAPACITOR, European symbol           Capacity                 Digikey  445-3464-1-ND        2,4  
+C19  220uF/10V           CPOL-EUSMCC      SMC_C            POLARIZED CAPACITOR, European symbol Capacitor SMD            Digikey  399-5168-1-nd        12,56
+C20  220uF/10V           CPOL-EUSMCC      SMC_C            POLARIZED CAPACITOR, European symbol Capacitor SMD            Digikey  399-5168-1-nd        12,56
+C21  100nF               C-EUC0805        C0805            CAPACITOR, European symbol                                             522526               0,07 
+C22  100nF               C-EUC0805        C0805            CAPACITOR, European symbol                                             522526               0,07 
+C23  100n                C-EUC0805        C0805            CAPACITOR, European symbol           100nF Cheramic capacitor Bejoken  522526               0,07 
+D1   LED Yellow          LED_2012         C2012                                                 LED Gul                  Digikey  475-2555-1-ND        1,28 
+D2   LED Green           LED_2012         C2012                                                 Grön LED                 Digikey  475-1410-1-nd        0,88 
+D3   LED Röd             LED_2012         C2012                                                 Röd LED                  Digikey  475-1415-1-ND        0,88 
+D5   1N5819              1N5819           SOD-123                                               Schotty diod             Digikey  1n5819hw-fdict-nd    3,84 
+IC1  PIC18F67J60         PIC18F67J60      TQFP64-10X10                                          Microprocessor           Digikey  pic18f67j60-i/pt-nd  46,4 
+IC2  AT45DB011D          AT45DB011D       SOP8                                                  Flash memory             Digikey  at45db011d-sh-b-nd   6,88 
+IC4  BD9001F             BD9001F          SOP8                                                  Swithing regulator       Digikey  BD9001F-E2CT-ND      39,84
+JP2                      FE12-2           FE12-2           FEMALE HEADER                                                 Digikey  SAM1212-50-ND        6,18 
+JP4                      MA06-1           MA06-1           PIN HEADER                           Digikey                           SAM1035-50-ND        0,33 
+L1   NR10050T470M        NR10050T470M     NR10050T470M                                          Inductance               Digikey  587-1700-1-ND        7,52 
+L2   FERRITE-BEAD        FERRITE-BEAD     0805                                                  Ferrite                  Digikey  445-1568-1-nd        2,88 
+R1   1M                  R-EU_M0805       M0805            RESISTOR, European symbol            Resistor                 Bejoken  454742               0,013
+R2   10k                 R-EU_M0805       M0805            RESISTOR, European symbol            Resistor                 Bejoken  454676               0,013
+R3   330                 R-EU_M0805       M0805            RESISTOR, European symbol            Resistor                 Bejoken  454636               0,013
+R4   270 1%              R-EU_M0805       M0805            RESISTOR, European symbol            Resistor                 Bejoken  454634               0,013
+R5   2K 1%               R-EU_M0805       M0805            RESISTOR, European symbol            Resistor                 Bejoken  454659               0,013
+R6   330                 R-EU_M0805       M0805            RESISTOR, European symbol            Resistor                 Bejoken  454636               0,013
+R7   330                 R-EU_M0805       M0805            RESISTOR, European symbol            Resistor                 Bejoken  454636               0,013
+R8   330                 R-EU_M0805       M0805            RESISTOR, European symbol            Resistor                 Bejoken  454636               0,013
+R9   330                 R-EU_M0805       M0805            RESISTOR, European symbol            Resistor                 Bejoken  454636               0,013
+R10  100k                R-EU_M0805       M0805            RESISTOR, European symbol            Resistor                 Bejoken  454704               0,013
+R11  150k                R-EU_M0805       M0805            RESISTOR, European symbol            Resistor                 Bejoken  454710               0,013
+R12  150k                R-EU_M0805       M0805            RESISTOR, European symbol            Resistor                 Bejoken  454710               0,013
+R13  4.3k/1%             R-EU_M0805       M0805            RESISTOR, European symbol            Resistor                 Digikey  311-4.30KCRTR-ND     0,021
+R14  1.8K/1%             R-EU_M0805       M0805            RESISTOR, European symbol            Resistor                 Bejoken  454658               0,013
+R15  49.9/1%             R-EU_M0805       M0805            RESISTOR, European symbol            Resistor                 Digikey  311-49.9CRTR-ND      0,021
+R16  49.9/1%             R-EU_M0805       M0805            RESISTOR, European symbol            Resistor                 Digikey  311-49.9CRTR-ND      0,021
+R17  49.9/1%             R-EU_M0805       M0805            RESISTOR, European symbol            Resistor                 Digikey  311-49.9CRTR-ND      0,021
+R18  49.9/1%             R-EU_M0805       M0805            RESISTOR, European symbol            Resistor                 Digikey  311-49.9CRTR-ND      0,021
+R19  22K                 R-EU_M0805       M0805            RESISTOR, European symbol            Resistor                 Bejoken  454684               0,013
+U$1  TAIMAGRPJ-003TC1    TAIMAGRPJ-003TC1 TAIMAGRJP-003TC1                                                                                             40   
+U$2  11AA02E48           11AA02E48        SOT23                                                 MAC Address              Digikey  11aa02e48t-i/ttct-nd 4    
+X1   TXC-7V-SERIES 25MHz TXC-7V-SERIES    TXC-7V-SERIES                                         XTAL 25MHz               Digikey  887-1467-6-nd        10,4 
+X2   32768               CRYSTALTC26H     TC26H            CRYSTAL                              Clock Chrystal           Digikey  535-9032-nd          2    
+Z1   1N4731(4.3V)        1N4731(4.3V)     1N4731                                                Zener                    Digikey  1n4731A-tpct-nd      3,6  

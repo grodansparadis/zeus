@@ -1,0 +1,207 @@
+# Library script
+# 
+# PCB Libraries
+Set Wire_Bend 2;
+Grid mm;
+SET COLOR_LAYER 29 3
+SET COLOR_LAYER 31 11
+SET COLOR_LAYER 39 13
+SET COLOR_LAYER 40 5
+SET COLOR_LAYER 51 6
+SET COLOR_LAYER 52 6
+SET FILL_LAYER 29 9
+SET FILL_LAYER 31 1
+SET FILL_LAYER 39 1
+SET FILL_LAYER 40 1
+SET FILL_LAYER 51 1
+SET FILL_LAYER 52 1
+Layer   1 Top;
+Layer  16 Bottom;
+Layer  17 Pads;
+Layer  18 Vias;
+Layer  19 Unrouted;
+Layer  20 Dimension;
+Layer  21 tPlace;
+Layer  22 bPlace;
+Layer  23 tOrigins;
+Layer  24 bOrigins;
+Layer  25 tNames;
+Layer  26 bNames;
+Layer  27 tValues;
+Layer  28 bValues;
+Layer  29 tStop;
+Layer  30 bStop;
+Layer  31 tCream;
+Layer  32 bCream;
+Layer  33 tFinish;
+Layer  34 bFinish;
+Layer  35 tGlue;
+Layer  36 bGlue;
+Layer  37 tTest;
+Layer  38 bTest;
+Layer  39 tKeepout;
+Layer  40 bKeepout;
+Layer  41 tRestrict;
+Layer  42 bRestrict;
+Layer  43 vRestrict;
+Layer  44 Drills;
+Layer  45 Holes;
+Layer  46 Milling;
+Layer  47 Measures;
+Layer  48 Document;
+Layer  49 Reference;
+Layer  51 tDocu;
+Layer  52 bDocu;
+# Layer  91 Nets;
+# Layer  92 Busses;
+# Layer  93 Pins;
+# Layer  94 Symbols;
+# Layer  95 Names;
+# Layer  96 Values;
+# Layer   3 Route3;
+# Layer   4 Route4;
+# Layer   5 Route5;
+# Layer   6 Route6;
+# Layer   7 Route7;
+# Layer   8 Route8;
+# Layer   9 Route9;
+# Layer  10 Route10;
+# Layer  11 Route11;
+# Layer  12 Route12;
+# Layer  13 Route13;
+# Layer  14 Route14;
+# Layer  15 Route15;
+# Layer   2 Route2;
+Description '\
+<b>PCB Libraries Packages</b><p>\n\';
+
+Edit QFP50P1600X1600X160-100N.pac
+Description '<b>PCB Libraries Package<b>';
+Layer 1;
+SMD '1' 1.5 0.3 -0 R0 (-7.7 6);
+SMD '2' 1.5 0.3 -0 R0 (-7.7 5.5);
+SMD '3' 1.5 0.3 -0 R0 (-7.7 5);
+SMD '4' 1.5 0.3 -0 R0 (-7.7 4.5);
+SMD '5' 1.5 0.3 -0 R0 (-7.7 4);
+SMD '6' 1.5 0.3 -0 R0 (-7.7 3.5);
+SMD '7' 1.5 0.3 -0 R0 (-7.7 3);
+SMD '8' 1.5 0.3 -0 R0 (-7.7 2.5);
+SMD '9' 1.5 0.3 -0 R0 (-7.7 2);
+SMD '10' 1.5 0.3 -0 R0 (-7.7 1.5);
+SMD '11' 1.5 0.3 -0 R0 (-7.7 1);
+SMD '12' 1.5 0.3 -0 R0 (-7.7 0.5);
+SMD '13' 1.5 0.3 -0 R0 (-7.7 0);
+SMD '14' 1.5 0.3 -0 R0 (-7.7 -0.5);
+SMD '15' 1.5 0.3 -0 R0 (-7.7 -1);
+SMD '16' 1.5 0.3 -0 R0 (-7.7 -1.5);
+SMD '17' 1.5 0.3 -0 R0 (-7.7 -2);
+SMD '18' 1.5 0.3 -0 R0 (-7.7 -2.5);
+SMD '19' 1.5 0.3 -0 R0 (-7.7 -3);
+SMD '20' 1.5 0.3 -0 R0 (-7.7 -3.5);
+SMD '21' 1.5 0.3 -0 R0 (-7.7 -4);
+SMD '22' 1.5 0.3 -0 R0 (-7.7 -4.5);
+SMD '23' 1.5 0.3 -0 R0 (-7.7 -5);
+SMD '24' 1.5 0.3 -0 R0 (-7.7 -5.5);
+SMD '25' 1.5 0.3 -0 R0 (-7.7 -6);
+SMD '26' 1.5 0.3 -0 R90 (-6 -7.7);
+SMD '27' 1.5 0.3 -0 R90 (-5.5 -7.7);
+SMD '28' 1.5 0.3 -0 R90 (-5 -7.7);
+SMD '29' 1.5 0.3 -0 R90 (-4.5 -7.7);
+SMD '30' 1.5 0.3 -0 R90 (-4 -7.7);
+SMD '31' 1.5 0.3 -0 R90 (-3.5 -7.7);
+SMD '32' 1.5 0.3 -0 R90 (-3 -7.7);
+SMD '33' 1.5 0.3 -0 R90 (-2.5 -7.7);
+SMD '34' 1.5 0.3 -0 R90 (-2 -7.7);
+SMD '35' 1.5 0.3 -0 R90 (-1.5 -7.7);
+SMD '36' 1.5 0.3 -0 R90 (-1 -7.7);
+SMD '37' 1.5 0.3 -0 R90 (-0.5 -7.7);
+SMD '38' 1.5 0.3 -0 R90 (0 -7.7);
+SMD '39' 1.5 0.3 -0 R90 (0.5 -7.7);
+SMD '40' 1.5 0.3 -0 R90 (1 -7.7);
+SMD '41' 1.5 0.3 -0 R90 (1.5 -7.7);
+SMD '42' 1.5 0.3 -0 R90 (2 -7.7);
+SMD '43' 1.5 0.3 -0 R90 (2.5 -7.7);
+SMD '44' 1.5 0.3 -0 R90 (3 -7.7);
+SMD '45' 1.5 0.3 -0 R90 (3.5 -7.7);
+SMD '46' 1.5 0.3 -0 R90 (4 -7.7);
+SMD '47' 1.5 0.3 -0 R90 (4.5 -7.7);
+SMD '48' 1.5 0.3 -0 R90 (5 -7.7);
+SMD '49' 1.5 0.3 -0 R90 (5.5 -7.7);
+SMD '50' 1.5 0.3 -0 R90 (6 -7.7);
+SMD '51' 1.5 0.3 -0 R0 (7.7 -6);
+SMD '52' 1.5 0.3 -0 R0 (7.7 -5.5);
+SMD '53' 1.5 0.3 -0 R0 (7.7 -5);
+SMD '54' 1.5 0.3 -0 R0 (7.7 -4.5);
+SMD '55' 1.5 0.3 -0 R0 (7.7 -4);
+SMD '56' 1.5 0.3 -0 R0 (7.7 -3.5);
+SMD '57' 1.5 0.3 -0 R0 (7.7 -3);
+SMD '58' 1.5 0.3 -0 R0 (7.7 -2.5);
+SMD '59' 1.5 0.3 -0 R0 (7.7 -2);
+SMD '60' 1.5 0.3 -0 R0 (7.7 -1.5);
+SMD '61' 1.5 0.3 -0 R0 (7.7 -1);
+SMD '62' 1.5 0.3 -0 R0 (7.7 -0.5);
+SMD '63' 1.5 0.3 -0 R0 (7.7 0);
+SMD '64' 1.5 0.3 -0 R0 (7.7 0.5);
+SMD '65' 1.5 0.3 -0 R0 (7.7 1);
+SMD '66' 1.5 0.3 -0 R0 (7.7 1.5);
+SMD '67' 1.5 0.3 -0 R0 (7.7 2);
+SMD '68' 1.5 0.3 -0 R0 (7.7 2.5);
+SMD '69' 1.5 0.3 -0 R0 (7.7 3);
+SMD '70' 1.5 0.3 -0 R0 (7.7 3.5);
+SMD '71' 1.5 0.3 -0 R0 (7.7 4);
+SMD '72' 1.5 0.3 -0 R0 (7.7 4.5);
+SMD '73' 1.5 0.3 -0 R0 (7.7 5);
+SMD '74' 1.5 0.3 -0 R0 (7.7 5.5);
+SMD '75' 1.5 0.3 -0 R0 (7.7 6);
+SMD '76' 1.5 0.3 -0 R90 (6 7.7);
+SMD '77' 1.5 0.3 -0 R90 (5.5 7.7);
+SMD '78' 1.5 0.3 -0 R90 (5 7.7);
+SMD '79' 1.5 0.3 -0 R90 (4.5 7.7);
+SMD '80' 1.5 0.3 -0 R90 (4 7.7);
+SMD '81' 1.5 0.3 -0 R90 (3.5 7.7);
+SMD '82' 1.5 0.3 -0 R90 (3 7.7);
+SMD '83' 1.5 0.3 -0 R90 (2.5 7.7);
+SMD '84' 1.5 0.3 -0 R90 (2 7.7);
+SMD '85' 1.5 0.3 -0 R90 (1.5 7.7);
+SMD '86' 1.5 0.3 -0 R90 (1 7.7);
+SMD '87' 1.5 0.3 -0 R90 (0.5 7.7);
+SMD '88' 1.5 0.3 -0 R90 (0 7.7);
+SMD '89' 1.5 0.3 -0 R90 (-0.5 7.7);
+SMD '90' 1.5 0.3 -0 R90 (-1 7.7);
+SMD '91' 1.5 0.3 -0 R90 (-1.5 7.7);
+SMD '92' 1.5 0.3 -0 R90 (-2 7.7);
+SMD '93' 1.5 0.3 -0 R90 (-2.5 7.7);
+SMD '94' 1.5 0.3 -0 R90 (-3 7.7);
+SMD '95' 1.5 0.3 -0 R90 (-3.5 7.7);
+SMD '96' 1.5 0.3 -0 R90 (-4 7.7);
+SMD '97' 1.5 0.3 -0 R90 (-4.5 7.7);
+SMD '98' 1.5 0.3 -0 R90 (-5 7.7);
+SMD '99' 1.5 0.3 -0 R90 (-5.5 7.7);
+SMD '100' 1.5 0.3 -0 R90 (-6 7.7);
+SMD '101' 1 1 -100 R0 (-7.7 -7.7);
+SMD '102' 1 1 -100 R0 (7.7 7.7);
+Layer 25;
+Change Size .7;
+Change Ratio 5;
+Text '>NAME' R0 (0 0);
+Layer 27;
+Change Size .7;
+Change Ratio 5;
+Text '>VALUE' R0 (0 0);
+Layer 51;
+Change Size .7;
+Change Ratio 5;
+Text '>NAME' R0 (0 0);
+Wire 0.1 (-7 -7) (7 -7) (7 7) (-7 7)\
+       (-7 -7);
+Circle 0.1 (-6 6) (-6.5 6);
+Layer 21;
+Wire 0.2 (-6.55 -6.55) (6.55 -6.55) (6.55 6.55) (-6.55 6.55)\
+       (-6.55 -6.55);
+Circle 0 (-5.55 5.55) (-6.15 5.55);
+Circle 0 (-8.2 6.7) (-8.45 6.7);
+Layer 39;
+Wire 0.05 (-8.7 -8.7) (8.7 -8.7) (8.7 8.7) (-8.7 8.7)\
+       (-8.7 -8.7);
+Wire 0.05 (0 0.5) (0 -0.5);
+Wire 0.05 (0.5 0) (-0.5 0);

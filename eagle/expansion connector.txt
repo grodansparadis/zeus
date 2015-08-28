@@ -1,0 +1,27 @@
+Pinput for expansion connector
+==============================
+
+1	GND
+2	GND
+3	RC7/RX1/DT1		Motherboard RX. Output on daughterboard.
+4	RC6/TX1/CK1		Motherboard TX. Output on daughterboard.
+5	SCK1 (SCL1)		SPI or I2C clock. (Add 4.7K pull-up for I2C on daughterboard)
+6	SDI1 (SDA1)		SPI data in or I2C data. (Add 4.7K pull-up for I2C on daughterboard)
+7	SDO1 			SPI data out.
+8	RF2/AN7/C1OUT	Analog or digital pin.
+9	RF3/AN8			Analog or digital pin.
+10	RF4/AN9			Analog or digital pin.
+11	RF5/AN10/CVREF	Analog or digital pin.
+12	RF6/AN11		Analog or digital pin.
+13	RG4/CCP5/P1D	Digital or capture compare input.
+14	RESET			System reset. Pulled up on motherboard.
+15	RB3/INT3		Digital or INT3
+16	RB2/INT2		Digital or INT2
+17	RB1/INT1		Digital or INT1
+18	RB0/INT0/FLT0	Digital or INT0
+19	RE2/P2B			Digital.
+20	RE3/P3C			Digital.
+21	RE0/P2D			Digital.
+22	RE1/P2C			Digital.
+23	+3.3V
+24	+3.3V
